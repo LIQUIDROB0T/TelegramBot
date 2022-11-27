@@ -1,4 +1,4 @@
-import telebot  # @SkillPractice18bot адрес бота
+import telebot
 from config import keys, TOKEN
 from extensions import ConvertionException, CryptoConvertor
 
